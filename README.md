@@ -30,7 +30,7 @@ Supports **light/dark mode toggle**, **persistent todos** with `localStorage`, a
 
 ```bash
 # clone repo
-git clone https://github.com/YOUR_USERNAME/todo-app.git
+git clone https://github.com/aysenurozkaymak/todo-app.git
 
 # enter project folder
 cd todo-app
